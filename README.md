@@ -10,7 +10,7 @@
 - **Homepage:**
   - Displaying products with images, titles, prices, and ratings
   - Filtering products by category
-  - Sorting products by price and ratings
+ 
 
 - **Product Details:**
   - Displaying detailed information about a selected product
@@ -24,7 +24,7 @@
 
 1. Clone the repository
     ```bash
-    git clone https://github.com/your-username/flipkart-basic-clone.git
+    git clone https://github.com/sohailshk/sohailshk.github.io.git
     ```
     
 ## Usage
